@@ -1,0 +1,48 @@
+/*p{
+	background-color: red;
+	color: blue;
+
+}
+css comments
+id selector
+#sample{
+	background-color: yellow;
+	color:red
+}
+class selector
+.sample{
+	background-color:black;
+	color:white
+}
+group selector
+h4,p{
+	background-color: green;
+	color: blue
+}
+universal selector
+{
+	text-align: center;
+}*/
+
+
+
+
+
+
+body{
+	background-color: #4D9510
+}
+main{
+	background-color: #7AAB52;
+	margin: 5%;
+	display: flex;
+	justify-content: space-around;
+}
+section{
+	background-color: #30C591;
+	margin: 5%
+
+}
+h2,h4{
+	text-align: center;
+}
